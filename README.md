@@ -2,8 +2,11 @@
 
 Collects basic System usage statistics and sends them to a Web Server. 
 
-(Python for project) 
+(Python used for project) 
 
 Link to C++ code :
+https://github.com/max-lulz/Sys_Stat_Logger-C-
+
+Above project is incomplete. 
 
 
